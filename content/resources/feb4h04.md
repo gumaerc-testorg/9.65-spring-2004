@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Handout.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-65-cognitive-processes-spring-2004/b36588b2745e1fbc5cf075fc9511ec42_feb4h04.pdf
+file: /media/courses/9-65-cognitive-processes-spring-2004/b36588b2745e1fbc5cf075fc9511ec42_feb4h04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: feb4h04.pdf
 uid: b36588b2-745e-1fbc-5cf0-75fc9511ec42
