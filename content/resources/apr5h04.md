@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d3ac6f0a-0868-3c74-8119-81e1e3a4531a
 resourcetype: Document
 title: apr5h04.pdf
 uid: 93974c7d-2e4c-3cef-b51a-f4c9726df25f
