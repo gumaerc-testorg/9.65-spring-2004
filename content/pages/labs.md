@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents in-class labs designed to train students in analyzing
+  and understanding the cognitive processes involved in memory and vision.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
