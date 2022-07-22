@@ -5,6 +5,7 @@ file: /courses/9-65-cognitive-processes-spring-2004/b36588b2745e1fbc5cf075fc9511
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: feb4h04.pdf
 uid: b36588b2-745e-1fbc-5cf0-75fc9511ec42
 ---
 Handout.
-
