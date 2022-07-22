@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section provides the schedule of course topics, labs, readings,
+  and assignments. Except where noted, chapter readings are from the course text:
+  Reisberg, Daniel. Cognition: Exploring the Science of the Mind, 2nd. ed. New York:
+  Norton, 2001. ISBN: 039397622X.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b07ec4e5-a7a1-18f3-6f36-2d60caaf3136
 ---
