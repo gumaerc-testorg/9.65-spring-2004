@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout.
 file: /courses/9-65-cognitive-processes-spring-2004/93974c7d2e4c3cefb51af4c9726df25f_apr5h04.pdf
+file_size: 85504
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
