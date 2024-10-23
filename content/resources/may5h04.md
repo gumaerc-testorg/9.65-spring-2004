@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout.
-file: /courses/9-65-cognitive-processes-spring-2004/e70ef1998035676745c20bcd7dc053b1_may5h04.pdf
+file: /ol-ocw-studio-app/courses/9-65-cognitive-processes-spring-2004/e70ef1998035676745c20bcd7dc053b1_may5h04.pdf
 file_size: 77330
 file_type: application/pdf
 learning_resource_types:
